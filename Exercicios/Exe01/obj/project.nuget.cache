@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "is4oh3teUH2I70ZBT/sATv4FP87RY15TBb1rywgST6MAU4uucsz8vuZwIDO7YFrt6rAaOyxn/2RekfhwFrEfcQ==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Exercicios/Exe01/Exe01.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

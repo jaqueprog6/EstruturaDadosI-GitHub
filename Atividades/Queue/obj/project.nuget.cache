@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "20nozwSIhGGh2BWsJm2d9kcI2pofMU43iU1pA4i3aNtT4QqT0dSiN7rVaG9JcI4PZnnCG7osysuGskjZqsNFQA==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/Queue/Queue.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

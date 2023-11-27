@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Csu7XMSiMDHZoC+zzwDMaMMmUcmOob4qoJ3xDi5yE6ST+lJnB+FKnXJ67jKuJ+XjJsCvcfxgAmi5FNZTHWZtkA==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/Trees/Trees.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

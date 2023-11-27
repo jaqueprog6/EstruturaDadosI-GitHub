@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4q0SOSezLwFuMduibqXkhGe2Ncdvam5xMAzlQdsqDdTPRFFGCD/i1Mliwq4D6rCGp6/ETh+jr2EqlZLpkVMq9Q==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/Terceira Aula/Terceira Aula.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

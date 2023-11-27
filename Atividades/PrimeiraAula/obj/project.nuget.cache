@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjFlQJ7bfEzEU4Y6zz84CUva5hFAXYe6B6HaZ/DUshrC5xIiOalDCBiIQ1ZkczwHOTgkcC+NbFxpoTOEN21j4A==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/PrimeiraAula/PrimeiraAula.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

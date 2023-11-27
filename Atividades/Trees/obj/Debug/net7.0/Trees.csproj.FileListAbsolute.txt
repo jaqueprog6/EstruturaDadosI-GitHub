@@ -1,0 +1,15 @@
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\bin\Debug\net7.0\Trees.exe
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\bin\Debug\net7.0\Trees.deps.json
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\bin\Debug\net7.0\Trees.runtimeconfig.json
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\bin\Debug\net7.0\Trees.dll
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\bin\Debug\net7.0\Trees.pdb
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.csproj.AssemblyReference.cache
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.AssemblyInfoInputs.cache
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.AssemblyInfo.cs
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.dll
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\refint\Trees.dll
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.pdb
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\Trees.genruntimeconfig.cache
+C:\Users\235199\Desktop\EstruturaDadosI\Atividades\Trees\obj\Debug\net7.0\ref\Trees.dll

@@ -1,0 +1,15 @@
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/bin/Debug/net7.0/Pilha
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/bin/Debug/net7.0/Pilha.deps.json
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/bin/Debug/net7.0/Pilha.runtimeconfig.json
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/bin/Debug/net7.0/Pilha.dll
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/bin/Debug/net7.0/Pilha.pdb
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.csproj.AssemblyReference.cache
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.GeneratedMSBuildEditorConfig.editorconfig
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.AssemblyInfoInputs.cache
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.AssemblyInfo.cs
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.csproj.CoreCompileInputs.cache
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.dll
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/refint/Pilha.dll
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.pdb
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/Pilha.genruntimeconfig.cache
+/home/mr-robot/Documentos/EstruturaDadosI/Atividades/Pilha/obj/Debug/net7.0/ref/Pilha.dll

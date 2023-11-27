@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "55G9EpPxnbXXllUB5YA8JyMyr+er0nxp0gr4EQgSLmj3iIuEkLhMx5I++K2T5m49zlrYPxTwCWgzpOmeTmDkZA==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/LinkedList/LinkedList.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

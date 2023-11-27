@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4VbVhUVyqlWHnm7zsp7XEMFxAavsM4JYZYV2wDnQapNsjklYo8Z0hOKYv4LSZaQyd0dPXNDVScf545GJKQraw==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/MultiDimensionalArrays/MultiDimensionalArrays.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
