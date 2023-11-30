@@ -1,0 +1,15 @@
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/bin/Debug/net7.0/Fila
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/bin/Debug/net7.0/Fila.deps.json
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/bin/Debug/net7.0/Fila.runtimeconfig.json
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/bin/Debug/net7.0/Fila.dll
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/bin/Debug/net7.0/Fila.pdb
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.csproj.AssemblyReference.cache
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.GeneratedMSBuildEditorConfig.editorconfig
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.AssemblyInfoInputs.cache
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.AssemblyInfo.cs
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.csproj.CoreCompileInputs.cache
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.dll
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/refint/Fila.dll
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.pdb
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/Fila.genruntimeconfig.cache
+/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/obj/Debug/net7.0/ref/Fila.dll

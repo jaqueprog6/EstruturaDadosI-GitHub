@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9/Q6ViIPXd5LjJuIyUKP2W3R3s+zmc9Mz+053LQ3QR0xaKv0YK8ygPmjSHq3tpF8NbWWRloMrIqEUdCyTbfmQ==",
+  "success": true,
+  "projectFilePath": "/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/Jogo-da-velha/Fila.csproj",
+  "expectedPackageFiles": [
+    "/home/mr-robot/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
