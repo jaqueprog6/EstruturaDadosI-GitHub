@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/HashTable/HashTable.csproj",
+      "projectUniqueName": "/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/HashTable/HashTable.csproj",
       "projectName": "HashTable",
-      "projectPath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/HashTable/HashTable.csproj",
+      "projectPath": "/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/HashTable/HashTable.csproj",
       "packagesPath": "/home/mr-robot/.nuget/packages/",
-      "outputPath": "/home/mr-robot/Documentos/Estrutura-Dados/Atividades/HashTable/obj/",
+      "outputPath": "/home/mr-robot/Documentos/EstruturaDadosI-GitHub/Atividades/HashTable/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mr-robot/.nuget/NuGet/NuGet.Config"
@@ -57,7 +57,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.11, 7.0.11]"
+            "version": "[7.0.13, 7.0.13]"
           }
         ],
         "frameworkReferences": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
       }
     }
   }
